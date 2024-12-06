@@ -1,0 +1,17 @@
+p
+{
+    color:red;
+    font-size: x-large;
+    font-weight: bold;
+    
+    }
+body{
+    background-color: burlywood;
+    font-family: "Edu AU VIC WA NT Pre";
+}
+img{
+    width: 300px;
+    border: 10px;
+    border-color: black;
+    border-style: dashed;
+}
